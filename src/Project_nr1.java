@@ -16,6 +16,7 @@ public class Project_nr1 {
             System.out.println("You are only eligible if you are above 18");
         }else{
             System.out.println("You are eligible");}
+        System.out.println("Please proceed to the next program");
 
     }
 }
